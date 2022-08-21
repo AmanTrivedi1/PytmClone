@@ -7,7 +7,7 @@
     - Tailwind Componant
 
 >Companat of Tailwind Css is 
-Avilable Free but in this Project I have built Everything From the Scratch
+Avilable Free but in this Project I have built Everything From the Scratch<br>
 
-[Deploy Link]("https://paytm-clone01.netlify.app/")   
+(Deployed Link)[https://paytm-clone01.netlify.app/]   
   
