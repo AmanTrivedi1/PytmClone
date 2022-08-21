@@ -6,7 +6,7 @@
     - Tailwind Css
     - Tailwind Componant
 
->Companat of Tailwind Css is 
+>Componant of Tailwind Css is 
 Avilable Free but in this Project I have built Everything From the Scratch<br>
 
 (Deployed Link)[https://paytm-clone01.netlify.app/]   
